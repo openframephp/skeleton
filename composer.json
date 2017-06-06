@@ -1,0 +1,27 @@
+{
+    "name": "static-site-framework/skeleton",
+    "authors": [
+        {
+            "name": "Leandro de Amorim",
+            "email": "androrim@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "static-site-framework",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/androrim/static-site-framework.git",
+                    "type": "git",
+                    "reference": "0.1.0"
+                }
+            }
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "static-site-framework": "dev-master"
+    }
+}

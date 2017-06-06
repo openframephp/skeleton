@@ -1,0 +1,5 @@
+{
+    "about" : ["foo", "bar"],
+    
+    "about/test" : ["bar"]
+}
